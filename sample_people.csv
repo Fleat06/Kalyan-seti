@@ -1,0 +1,101 @@
+﻿name,age,gender,occupation,area,income,state,category,education,disability,bpl,land,minority
+Aarav Sharma,22,Male,Student,Urban,120000,Maharashtra,General,Graduate,False,False,False,False
+Aditi Patil,19,Female,Student,Rural,65000,Maharashtra,OBC,12th,False,True,False,False
+Rahul Verma,35,Male,Farmer,Rural,90000,Uttar Pradesh,OBC,10th,False,True,True,False
+Sneha Kumari,28,Female,Self-employed,Urban,180000,Bihar,SC,Graduate,False,False,False,True
+Imran Khan,42,Male,Artisan,Rural,140000,Madhya Pradesh,Minority,8th,False,False,False,True
+Pooja Deshmukh,31,Female,Unemployed,Rural,50000,Maharashtra,SC,12th,True,True,False,False
+Vikram Singh,50,Male,Farmer,Rural,210000,Rajasthan,General,10th,False,False,True,False
+Neha Yadav,24,Female,Student,Urban,95000,Haryana,OBC,Graduate,False,False,False,False
+Sanjay Das,38,Male,Daily Wage Worker,Rural,75000,West Bengal,SC,5th,False,True,False,False
+Kavita Nair,45,Female,Self-employed,Urban,260000,Kerala,General,Graduate,False,False,False,False
+Kavya Sharma,30,Male,Salaried,Rural,177910,Maharashtra,General,8th,False,False,False,True
+Aditya Kumar,37,Female,Farmer,Urban,191701,Madhya Pradesh,SC,Graduate,False,False,False,False
+Nisha Das,44,Male,Artisan,Rural,205492,Gujarat,Minority,5th,False,True,True,False
+Suresh Deshmukh,51,Female,Unemployed,Urban,219283,Haryana,OBC,12th,False,False,False,False
+Farah Verma,58,Male,Student,Rural,233074,Bihar,ST,Below 5th,False,False,False,False
+Omkar Yadav,65,Female,Self-employed,Urban,246865,Karnataka,General,10th,False,False,True,True
+Ritika Khan,72,Male,Daily Wage Worker,Rural,260656,Kerala,SC,Postgraduate,False,True,False,False
+Aman Patil,21,Female,Salaried,Urban,274447,Uttar Pradesh,Minority,8th,False,False,False,False
+Jyoti Singh,28,Male,Farmer,Rural,288238,Rajasthan,OBC,Graduate,True,False,True,False
+Nikhil Nair,35,Female,Artisan,Urban,302029,West Bengal,ST,5th,False,False,False,False
+Ananya Sharma,42,Male,Unemployed,Rural,315820,Maharashtra,General,12th,False,True,False,True
+Rohan Kumar,49,Female,Student,Urban,329611,Madhya Pradesh,SC,Below 5th,False,False,True,False
+Meera Das,56,Male,Self-employed,Rural,343402,Gujarat,Minority,10th,False,False,False,False
+Karan Deshmukh,63,Female,Daily Wage Worker,Urban,357193,Haryana,OBC,Postgraduate,False,False,False,False
+Ishita Verma,70,Male,Salaried,Rural,370984,Bihar,ST,8th,False,True,True,False
+Arjun Yadav,19,Female,Farmer,Urban,384775,Karnataka,General,Graduate,False,False,False,True
+Priya Khan,26,Male,Artisan,Rural,398566,Kerala,SC,5th,False,False,False,False
+Manoj Patil,33,Female,Unemployed,Urban,412357,Uttar Pradesh,Minority,12th,True,False,True,False
+Sana Singh,40,Male,Student,Rural,426148,Rajasthan,OBC,Below 5th,False,True,False,False
+Deepak Nair,47,Female,Self-employed,Urban,439939,West Bengal,ST,10th,False,False,False,False
+Kavya Sharma,54,Male,Daily Wage Worker,Rural,453730,Maharashtra,General,Postgraduate,False,False,True,True
+Aditya Kumar,61,Female,Salaried,Urban,467521,Madhya Pradesh,SC,8th,False,False,False,False
+Nisha Das,68,Male,Farmer,Rural,481312,Gujarat,Minority,Graduate,False,True,False,False
+Suresh Deshmukh,75,Female,Artisan,Urban,495103,Haryana,OBC,5th,False,False,True,False
+Farah Verma,24,Male,Unemployed,Rural,48894,Bihar,ST,12th,False,False,False,False
+Omkar Yadav,31,Female,Student,Urban,62685,Karnataka,General,Below 5th,False,False,False,True
+Ritika Khan,38,Male,Self-employed,Rural,76476,Kerala,SC,10th,True,True,True,False
+Aman Patil,45,Female,Daily Wage Worker,Urban,90267,Uttar Pradesh,Minority,Postgraduate,False,False,False,False
+Jyoti Singh,52,Male,Salaried,Rural,104058,Rajasthan,OBC,8th,False,False,False,False
+Nikhil Nair,59,Female,Farmer,Urban,117849,West Bengal,ST,Graduate,False,False,True,False
+Ananya Sharma,66,Male,Artisan,Rural,131640,Maharashtra,General,5th,False,True,False,True
+Rohan Kumar,73,Female,Unemployed,Urban,145431,Madhya Pradesh,SC,12th,False,False,False,False
+Meera Das,22,Male,Student,Rural,159222,Gujarat,Minority,Below 5th,False,False,True,False
+Karan Deshmukh,29,Female,Self-employed,Urban,173013,Haryana,OBC,10th,False,False,False,False
+Ishita Verma,36,Male,Daily Wage Worker,Rural,186804,Bihar,ST,Postgraduate,False,True,False,False
+Arjun Yadav,43,Female,Salaried,Urban,200595,Karnataka,General,8th,True,False,True,True
+Priya Khan,50,Male,Farmer,Rural,214386,Kerala,SC,Graduate,False,False,False,False
+Manoj Patil,57,Female,Artisan,Urban,228177,Uttar Pradesh,Minority,5th,False,False,False,False
+Sana Singh,64,Male,Unemployed,Rural,241968,Rajasthan,OBC,12th,False,True,True,False
+Deepak Nair,71,Female,Student,Urban,255759,West Bengal,ST,Below 5th,False,False,False,False
+Kavya Sharma,20,Male,Self-employed,Rural,269550,Maharashtra,General,10th,False,False,False,True
+Aditya Kumar,27,Female,Daily Wage Worker,Urban,283341,Madhya Pradesh,SC,Postgraduate,False,False,True,False
+Nisha Das,34,Male,Salaried,Rural,297132,Gujarat,Minority,8th,False,True,False,False
+Suresh Deshmukh,41,Female,Farmer,Urban,310923,Haryana,OBC,Graduate,False,False,False,False
+Farah Verma,48,Male,Artisan,Rural,324714,Bihar,ST,5th,True,False,True,False
+Omkar Yadav,55,Female,Unemployed,Urban,338505,Karnataka,General,12th,False,False,False,True
+Ritika Khan,62,Male,Student,Rural,352296,Kerala,SC,Below 5th,False,True,False,False
+Aman Patil,69,Female,Self-employed,Urban,366087,Uttar Pradesh,Minority,10th,False,False,True,False
+Jyoti Singh,18,Male,Daily Wage Worker,Rural,379878,Rajasthan,OBC,Postgraduate,False,False,False,False
+Nikhil Nair,25,Female,Salaried,Urban,393669,West Bengal,ST,8th,False,False,False,False
+Ananya Sharma,32,Male,Farmer,Rural,407460,Maharashtra,General,Graduate,False,True,True,True
+Rohan Kumar,39,Female,Artisan,Urban,421251,Madhya Pradesh,SC,5th,False,False,False,False
+Meera Das,46,Male,Unemployed,Rural,435042,Gujarat,Minority,12th,False,False,False,False
+Karan Deshmukh,53,Female,Student,Urban,448833,Haryana,OBC,Below 5th,True,False,True,False
+Ishita Verma,60,Male,Self-employed,Rural,462624,Bihar,ST,10th,False,True,False,False
+Arjun Yadav,67,Female,Daily Wage Worker,Urban,476415,Karnataka,General,Postgraduate,False,False,False,True
+Priya Khan,74,Male,Salaried,Rural,490206,Kerala,SC,8th,False,False,True,False
+Manoj Patil,23,Female,Farmer,Urban,43997,Uttar Pradesh,Minority,Graduate,False,False,False,False
+Sana Singh,30,Male,Artisan,Rural,57788,Rajasthan,OBC,5th,False,True,False,False
+Deepak Nair,37,Female,Unemployed,Urban,71579,West Bengal,ST,12th,False,False,True,False
+Kavya Sharma,44,Male,Student,Rural,85370,Maharashtra,General,Below 5th,False,False,False,True
+Aditya Kumar,51,Female,Self-employed,Urban,99161,Madhya Pradesh,SC,10th,False,False,False,False
+Nisha Das,58,Male,Daily Wage Worker,Rural,112952,Gujarat,Minority,Postgraduate,True,True,True,False
+Suresh Deshmukh,65,Female,Salaried,Urban,126743,Haryana,OBC,8th,False,False,False,False
+Farah Verma,72,Male,Farmer,Rural,140534,Bihar,ST,Graduate,False,False,False,False
+Omkar Yadav,21,Female,Artisan,Urban,154325,Karnataka,General,5th,False,False,True,True
+Ritika Khan,28,Male,Unemployed,Rural,168116,Kerala,SC,12th,False,True,False,False
+Aman Patil,35,Female,Student,Urban,181907,Uttar Pradesh,Minority,Below 5th,False,False,False,False
+Jyoti Singh,42,Male,Self-employed,Rural,195698,Rajasthan,OBC,10th,False,False,True,False
+Nikhil Nair,49,Female,Daily Wage Worker,Urban,209489,West Bengal,ST,Postgraduate,False,False,False,False
+Ananya Sharma,56,Male,Salaried,Rural,223280,Maharashtra,General,8th,False,True,False,True
+Rohan Kumar,63,Female,Farmer,Urban,237071,Madhya Pradesh,SC,Graduate,True,False,True,False
+Meera Das,70,Male,Artisan,Rural,250862,Gujarat,Minority,5th,False,False,False,False
+Karan Deshmukh,19,Female,Unemployed,Urban,264653,Haryana,OBC,12th,False,False,False,False
+Ishita Verma,26,Male,Student,Rural,278444,Bihar,ST,Below 5th,False,True,True,False
+Arjun Yadav,33,Female,Self-employed,Urban,292235,Karnataka,General,10th,False,False,False,True
+Priya Khan,40,Male,Daily Wage Worker,Rural,306026,Kerala,SC,Postgraduate,False,False,False,False
+Manoj Patil,47,Female,Salaried,Urban,319817,Uttar Pradesh,Minority,8th,False,False,True,False
+Sana Singh,54,Male,Farmer,Rural,333608,Rajasthan,OBC,Graduate,False,True,False,False
+Deepak Nair,61,Female,Artisan,Urban,347399,West Bengal,ST,5th,False,False,False,False
+Kavya Sharma,68,Male,Unemployed,Rural,361190,Maharashtra,General,12th,True,False,True,True
+Aditya Kumar,75,Female,Student,Urban,374981,Madhya Pradesh,SC,Below 5th,False,False,False,False
+Nisha Das,24,Male,Self-employed,Rural,388772,Gujarat,Minority,10th,False,True,False,False
+Suresh Deshmukh,31,Female,Daily Wage Worker,Urban,402563,Haryana,OBC,Postgraduate,False,False,True,False
+Farah Verma,38,Male,Salaried,Rural,416354,Bihar,ST,8th,False,False,False,False
+Omkar Yadav,45,Female,Farmer,Urban,430145,Karnataka,General,Graduate,False,False,False,True
+Ritika Khan,52,Male,Artisan,Rural,443936,Kerala,SC,5th,False,True,True,False
+Aman Patil,59,Female,Unemployed,Urban,457727,Uttar Pradesh,Minority,12th,False,False,False,False
+Jyoti Singh,66,Male,Student,Rural,471518,Rajasthan,OBC,Below 5th,False,False,False,False
+Nikhil Nair,73,Female,Self-employed,Urban,485309,West Bengal,ST,10th,True,False,True,False
